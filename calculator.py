@@ -1,4 +1,4 @@
-print("============My Calculator===========")
+print("Welcome to My Calculator!")
 try:
    firs = input("Enter a   first number: ")
    first = float(firs)
